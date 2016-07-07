@@ -23,7 +23,15 @@
 		},
 		{
 			"name":"org.geppetto.model.swc",
-			"url":"https://github.com/openworm/org.geppetto.model.swc"
+			"url":"https://github.com/openworm/org.geppetto.model.swc.git"
+		},
+                {
+                        "name":"org.geppetto.datasources",
+                        "url":"https://github.com/openworm/org.geppetto.datasources.git"
+                },
+		{
+			"name":"uk.ac.vfb.geppetto",
+                        "url":"https://github.com/VirtualFlyBrain/uk.ac.vfb.geppetto.git"
 		}
 	]
 }
